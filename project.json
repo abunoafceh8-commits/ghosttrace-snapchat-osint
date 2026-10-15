@@ -1,6 +1,21 @@
 {
-  "slug": "ghosttrace-snapchat-osint",
-  "url": "https://ghosttrace-snapchat-osint-d0co.arcada.app/",
-  "title": "GhostTrace Snapchat OSINT",
-  "desc": "أداة OSINT لـ Snapchat (نسخة Pro)."
+  "name": "ghosttrace-snapchat-osint",
+  "title": "GhostTrace — Snapchat OSINT Pro",
+  "category": "OSINT",
+  "description": "أداة GhostTrace الاحترافية لاستخبارات Snapchat OSINT.",
+  "liveUrl": "https://ghosttrace-snapchat-osint-d0co.arcada.app",
+  "aliases": [],
+  "sourceLinks": [
+    "https://www.designarena.ai/chat/e31dd76f-4a64-4f95-9435-2936c76e61a3"
+  ],
+  "originalTitle": "GhostTrace — Snapchat OSINT Intelligence",
+  "originalDescription": "",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "assets/index-DL813lq4.js",
+    "assets/index-nYqTA7hR.css"
+  ]
 }
