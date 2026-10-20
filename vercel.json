@@ -1,4 +1,9 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/snapchat-deep", "destination": "/api/snapchat-deep" },
+    { "source": "/api/scan-history", "destination": "/api/scan-history" }
+  ]
 }
